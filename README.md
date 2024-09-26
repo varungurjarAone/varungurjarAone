@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @varungurjarAone
-- I work at AngelOne as n SDE (Frontend)
+- 👋 Hi, I’m Varun
 
 <!---
 varungurjarAone/varungurjarAone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
